@@ -1,0 +1,2 @@
+necessario ter o nodejs instalado!!
+att. vicenzo

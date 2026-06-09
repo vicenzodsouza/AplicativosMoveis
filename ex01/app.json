@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Lista de Contatos",
+    "slug": "ex01-contatos",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "platforms": ["ios", "android", "web"],
+    "userInterfaceStyle": "light"
+  }
+}
